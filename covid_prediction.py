@@ -1,5 +1,5 @@
 # 南方科技大学申请材料 - 疫情数据建模
-# 作者：张三（常德市一中高三X班）
+# 作者：熊怀亦（常德市一中高三542班）
 
 import pandas as pd
 import matplotlib.pyplot as plt
